@@ -121,3 +121,5 @@ function merge(left, right, array) {
 
 console.log(mergeSort(arr));
 console.log('mergeSort count: ', count2);
+
+module.exports = quickSort;
